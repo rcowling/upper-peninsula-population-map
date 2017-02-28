@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Marquette",
+        "Pop_1910": 11503,
+        "Pop_1920": 12718,
+        "Pop_1930": 14789,
+        "Pop_1940": 15928,
+        "Pop_1950": 17202,
+        "Pop_1960": 19824,
+        "Pop_1970": 21967,
+        "Pop_1980": 23288,
+        "Pop_1990": 21977,
+        "Pop_2000": 19661,
+        "Pop_2010": 21335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3956,
+          46.5476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Iron Mountain",
+        "Pop_1910": 9216,
+        "Pop_1920": 8251,
+        "Pop_1930": 11652,
+        "Pop_1940": 11080,
+        "Pop_1950": 9679,
+        "Pop_1960": 9299,
+        "Pop_1970": 8702,
+        "Pop_1980": 8341,
+        "Pop_1990": 8525,
+        "Pop_2000": 8154,
+        "Pop_2010": 7624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.066,
+          45.8202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Escanaba",
+        "Pop_1910": 13194,
+        "Pop_1920": 13103,
+        "Pop_1930": 14524,
+        "Pop_1940": 14830,
+        "Pop_1950": 15170,
+        "Pop_1960": 15391,
+        "Pop_1970": 15368,
+        "Pop_1980": 14355,
+        "Pop_1990": 13659,
+        "Pop_2000": 13140,
+        "Pop_2010": 12616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0646,
+          45.7452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Houghton",
+        "Pop_1910": 5113,
+        "Pop_1920": 4406,
+        "Pop_1930": 3757,
+        "Pop_1940": 3693,
+        "Pop_1950": 3829,
+        "Pop_1960": 3393,
+        "Pop_1970": 6067,
+        "Pop_1980": 7512,
+        "Pop_1990": 7498,
+        "Pop_2000": 7010,
+        "Pop_2010": 7708
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5694,
+          47.1211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Hancock",
+        "Pop_1910": 8981,
+        "Pop_1920": 7527,
+        "Pop_1930": 5795,
+        "Pop_1940": 5554,
+        "Pop_1950": 5223,
+        "Pop_1960": 5022,
+        "Pop_1970": 4820,
+        "Pop_1980": 5122,
+        "Pop_1990": 4547,
+        "Pop_2000": 4323,
+        "Pop_2010": 4634
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.581,
+          47.1269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Sault Ste. Marie",
+        "Pop_1910": 12615,
+        "Pop_1920": 12096,
+        "Pop_1930": 13755,
+        "Pop_1940": 15847,
+        "Pop_1950": 17912,
+        "Pop_1960": 18722,
+        "Pop_1970": 15136,
+        "Pop_1980": 14448,
+        "Pop_1990": 14689,
+        "Pop_2000": 14324,
+        "Pop_2010": 14144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3453,
+          46.4953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Ishpeming",
+        "Pop_1910": 12448,
+        "Pop_1920": 10500,
+        "Pop_1930": 9238,
+        "Pop_1940": 9491,
+        "Pop_1950": 8962,
+        "Pop_1960": 8857,
+        "Pop_1970": 8245,
+        "Pop_1980": 7538,
+        "Pop_1990": 7200,
+        "Pop_2000": 6686,
+        "Pop_2010": 6470
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6676,
+          46.4885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Negaunee",
+        "Pop_1910": 8460,
+        "Pop_1920": 7419,
+        "Pop_1930": 6552,
+        "Pop_1940": 6813,
+        "Pop_1950": 6472,
+        "Pop_1960": 6126,
+        "Pop_1970": 5248,
+        "Pop_1980": 5189,
+        "Pop_1990": 4741,
+        "Pop_2000": 4576,
+        "Pop_2010": 4568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6069,
+          46.5091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Menominee",
+        "Pop_1910": 10507,
+        "Pop_1920": 8907,
+        "Pop_1930": 10320,
+        "Pop_1940": 10230,
+        "Pop_1950": 11151,
+        "Pop_1960": 11289,
+        "Pop_1970": 10748,
+        "Pop_1980": 10099,
+        "Pop_1990": 9398,
+        "Pop_2000": 9131,
+        "Pop_2010": 8599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6143,
+          45.1078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Ironwood",
+        "Pop_1910": 12821,
+        "Pop_1920": 15739,
+        "Pop_1930": 14299,
+        "Pop_1940": 13369,
+        "Pop_1950": 11466,
+        "Pop_1960": 10265,
+        "Pop_1970": 8711,
+        "Pop_1980": 7741,
+        "Pop_1990": 6849,
+        "Pop_2000": 6293,
+        "Pop_2010": 5387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.171,
+          46.4547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Kingsford",
+        "Pop_1910": 0,
+        "Pop_1920": 0,
+        "Pop_1930": 5526,
+        "Pop_1940": 5771,
+        "Pop_1950": 5038,
+        "Pop_1960": 5084,
+        "Pop_1970": 5276,
+        "Pop_1980": 5290,
+        "Pop_1990": 5480,
+        "Pop_2000": 5549,
+        "Pop_2010": 5133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0721,
+          45.795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Gladstone",
+        "Pop_1910": 13194,
+        "Pop_1920": 13103,
+        "Pop_1930": 14524,
+        "Pop_1940": 14830,
+        "Pop_1950": 15170,
+        "Pop_1960": 15391,
+        "Pop_1970": 15368,
+        "Pop_1980": 14355,
+        "Pop_1990": 13659,
+        "Pop_2000": 13140,
+        "Pop_2010": 12616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0218,
+          45.8527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Manistique",
+        "Pop_1910": 4722,
+        "Pop_1920": 6380,
+        "Pop_1930": 5198,
+        "Pop_1940": 5399,
+        "Pop_1950": 5086,
+        "Pop_1960": 4875,
+        "Pop_1970": 4324,
+        "Pop_1980": 3962,
+        "Pop_1990": 3456,
+        "Pop_2000": 3583,
+        "Pop_2010": 3097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2463,
+          45.9578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Munising",
+        "Pop_1910": 2952,
+        "Pop_1920": 5037,
+        "Pop_1930": 3956,
+        "Pop_1940": 4409,
+        "Pop_1950": 4339,
+        "Pop_1960": 4228,
+        "Pop_1970": 3677,
+        "Pop_1980": 3083,
+        "Pop_1990": 2783,
+        "Pop_2000": 2539,
+        "Pop_2010": 2355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6479,
+          46.4111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Norway",
+        "Pop_1910": 4974,
+        "Pop_1920": 4533,
+        "Pop_1930": 4016,
+        "Pop_1940": 3728,
+        "Pop_1950": 3258,
+        "Pop_1960": 3171,
+        "Pop_1970": 3033,
+        "Pop_1980": 2919,
+        "Pop_1990": 2910,
+        "Pop_2000": 2959,
+        "Pop_2010": 2845
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9037,
+          45.7869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Iron River",
+        "Pop_1910": 2450,
+        "Pop_1920": 4295,
+        "Pop_1930": 4665,
+        "Pop_1940": 4416,
+        "Pop_1950": 4048,
+        "Pop_1960": 3754,
+        "Pop_1970": 2684,
+        "Pop_1980": 2426,
+        "Pop_1990": 2095,
+        "Pop_2000": 1929,
+        "Pop_2010": 3029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6424,
+          46.0927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "L'Anse",
+        "Pop_1910": 708,
+        "Pop_1920": 1013,
+        "Pop_1930": 2421,
+        "Pop_1940": 2564,
+        "Pop_1950": 2376,
+        "Pop_1960": 2397,
+        "Pop_1970": 2538,
+        "Pop_1980": 2500,
+        "Pop_1990": 2151,
+        "Pop_2000": 2107,
+        "Pop_2010": 2011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4529,
+          46.7566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "St. Ignace",
+        "Pop_1910": 2118,
+        "Pop_1920": 1852,
+        "Pop_1930": 2109,
+        "Pop_1940": 2669,
+        "Pop_1950": 2946,
+        "Pop_1960": 3334,
+        "Pop_1970": 2892,
+        "Pop_1980": 2632,
+        "Pop_1990": 2568,
+        "Pop_2000": 2678,
+        "Pop_2010": 2452
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7323,
+          45.8756
+        ]
+      }
+    }
+  ]
+}

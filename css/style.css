@@ -1,0 +1,59 @@
+/* Stylesheet by Bob Cowling, 2016 */
+ html, body, #mapid {
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif; 
+    
+}
+
+.sequence-control-container {
+    width: 350px;
+    height: 30px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: solid gray 1px;
+}
+
+.legend-control-container, .temporal-legend {
+    height: 120px;
+    background-color: rgba(255,255,255,0.8);
+    padding: 0x;
+    line-height: 45px;
+    text-align: center;
+    border: solid gray 1px;
+    
+}
+
+.range-slider {
+    width: 200px;
+    color: aquamarine;
+}
+
+#forward {
+    float: right;
+}
+
+#reverse {
+    float: left;
+}
+
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+#header {
+   background-color: darkorange;
+   border-style: solid;
+   border-color: black; 
+   height: 50px;
+   padding-bottom: 10px;    
+}
+
+h1 {
+    font-family: 'Handlee', cursive;
+    font-size: 20pt;
+    
+}

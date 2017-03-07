@@ -455,8 +455,8 @@ var customControl =  L.Control.extend({
     var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
 
     container.style.backgroundColor = 'white';     
-    container.style.backgroundImage = "url(http://www.freeiconspng.com/uploads/info-icon-32.png)";
-    container.style.backgroundSize = "30px 30px";
+    container.style.backgroundImage = "url(upper-peninsula-population-map/img/info4.svg)";
+    container.style.backgroundSize = "25px 25px";
     container.style.width = '30px';
     container.style.height = '30px';
 

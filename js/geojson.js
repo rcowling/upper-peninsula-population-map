@@ -457,8 +457,8 @@ var customControl =  L.Control.extend({
     container.style.backgroundColor = 'white';     
     container.style.backgroundImage = "url(https://rcowling.github.io/upper-peninsula-population-map/img/info4.svg)";
     container.style.backgroundSize = "25px 25px";
-    container.style.width = '30px';
-    container.style.height = '30px';
+    container.style.width = '25px';
+    container.style.height = '25px';
 
     
        container.onclick = function(){
